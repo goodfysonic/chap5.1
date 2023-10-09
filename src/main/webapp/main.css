@@ -1,0 +1,64 @@
+@charset "UTF-8";
+body {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 13pt;
+	margin-left: 2em;
+	margin-right: 2em;
+	
+}
+
+img {
+  display: block;
+}
+
+h1 {
+	
+	color: steelblue;
+}
+
+h2 {
+	color: steelblue;
+}
+
+h3 {
+	color: steelblue;
+}
+
+
+label {
+	
+	float: left;
+	width: 20em;
+	margin-bottom: 0.5em;
+}
+
+input[type="text"], input[type="email"]	{
+	width: 15em;
+	margin-left: 2em;
+	margin-bottom: 2em;
+}
+.how {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+	font-family: Arial, Helvetica, sans-serif;
+	display: inline-block;
+	margin-right: 5em;
+}
+
+br	{
+	clear: both;
+}
+#submit {
+	margin-left: 0.2em;
+}
+
+p[name="copyRight"] {
+  text-align: center;
+  font-weight: 8pt;
+}
